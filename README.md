@@ -2,7 +2,7 @@
 
 **BIT 4131 Statistical Computing and Reporting | Group work**
 
-This project started with an argument in our group. One of us said hostel students attend more classes because they're five minutes from the lecture halls. Another said it makes no difference, because the people who skip will skip wherever they live. Both variables are categories, not numbers, so the chi-square test was the natural way to settle it.
+The question:- One of us said hostel students attend more classes because they're five minutes from the lecture halls. Another said it makes no difference, because the people who skip will skip wherever they live. Both variables are categories, not numbers, so the chi-square test was the natural way to settle it.
 
 Along the way we answer two more questions with the same family of tests:
 
@@ -74,10 +74,3 @@ Hostel students have far more "High" attendance than we'd expect by chance (adju
 **C. Goodness-of-fit: no evidence of a mismatch.**
 χ² = 3.30, df = 2, p = 0.19. Our sample's split across residence types is consistent with the housing office figures, which makes us more comfortable treating the sample as representative.
 
-## Group members
-
-| Name | Reg. No. | Programme | Role |
-|---|---|---|---|
-|  |  | BSc Statistics |  |
-|  |  | BSc Computer Science |  |
-|  |  |  |  |
