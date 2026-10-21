@@ -74,3 +74,22 @@ Hostel students have far more "High" attendance than we'd expect by chance (adju
 **C. Goodness-of-fit: no evidence of a mismatch.**
 χ² = 3.30, df = 2, p = 0.19. Our sample's split across residence types is consistent with the housing office figures, which makes us more comfortable treating the sample as representative.
 
+## Group Members
+
+
+
+| No. | Name | Registration Number |
+|:---:|---|---|
+| 1 | Ayub Hussein | BSCCS/2024/56898 |
+| 2 | Samuel Njuguna | BSCCS/2024/54633 |
+| 3 | Mike Momanyi | BSCCS/2024/57241 |
+| 4 | Rickson Mwangi | BSCCS/2024/54222 |
+| 5 | Annie Wangeci | BSCCS/2024/55251 |
+| 6 | Linet Kamathi | BSCCS/2024/50325 |
+| 7 | Steed Mbugua | BSCCS/2024/54025 |
+| 8 | Joshua Muli | BSCCS/2024/73427 |
+| 9 | Collins Matagi | BSCCS/2024/50482 |
+| 10 | Kikuyu Brian | BSCCS/2024/74678 |
+| 11 | Philip Philemon | BSS/2022/53061 |
+| 12 | James Laat | BSS/2024/54875 |
+
