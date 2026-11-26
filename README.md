@@ -94,3 +94,11 @@ Hostel students have far more "High" attendance than we'd expect by chance (adju
 | 12 | James Laat | BSS/2024/54875 |
 | 13 | Mohamed Ali Hassan | Bsccs/2024/45890 |
 
+## Notes on interpreting the results
+
+- **Association is not causation.** Hostel students attend more (adjusted residual +4.32), but the test does not show that living in a hostel causes better attendance.
+- **Effect size matters.** For residence and attendance, p = 0.000028 shows the link is unlikely to be chance. Cramér's V = 0.21 shows it is modest in size.
+- **Simulated data.** The 300 responses were generated with patterns we assumed, so the conclusions describe our simulation, not real students.
+- **Library use.** Fisher's exact test (p = 0.0011) agrees with the Yates-corrected chi-square, so the result holds even with small expected counts.
+- **Goodness-of-fit.** p = 0.19 means we found no evidence of a mismatch with the 40/35/25 split. This does not prove the sample is representative.
+
